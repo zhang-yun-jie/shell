@@ -2,7 +2,7 @@
 Simple exec of shell commands in node
 
 ``` js
-const { shell } = require('@zhangyunjie/shell')
+const { shell } = require('@yun-jie/shell')
 
 shell('touch somefile.js')
 shell('http-server', { async: true })
@@ -14,7 +14,7 @@ shell('http-server', { async: true })
 Runs given command as a child process. Returns output of executed command.
 
 ```js
-const { shell } = require('@zhangyunjie/shell')
+const { shell } = require('@yun-jie/shell')
 ```
 
 *Options:*

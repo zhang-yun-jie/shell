@@ -1,5 +1,5 @@
 {
-  "name": "@zhangyunjie/shell",
+  "name": "@yun-jie/shell",
   "version": "2.0.0",
   "description": "Simple exec of shell commands",
   "main": "./lib/index.js",
